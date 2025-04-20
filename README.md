@@ -37,8 +37,7 @@ This project demonstrates a **Smart Shopping Cart System** using **RFID technolo
 | 3.3V      | 3.3V             | Power Supply        |
 
 ### 🖼️ Circuit Connection (Real-time Setup)
-
-> 📷 Replace with your setup image  
+ 
 ![Connection Setup](Circuit_Connections.png)
 
 ---
