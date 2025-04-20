@@ -41,7 +41,10 @@ This project demonstrates a **Smart Shopping Cart System** using **RFID technolo
 ![Connection Setup](Circuit_Connections.png)
 
 ---
-
+## Results
+![Results_Photo_1](results_1_img.png)
+![Results_Photo_2](results_2_img.png)
+![Results_Photo_3](results_3_img.png)
 ## 📦 Product and Tag Example
 
 ```cpp
@@ -54,4 +57,4 @@ Product products[] = {
 
 String productIDs[] = {
     "ADBBCA6B", "A459FEB6", "D4BC09B0", "43965A29"
-};
+}; 
