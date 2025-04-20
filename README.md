@@ -39,7 +39,7 @@ This project demonstrates a **Smart Shopping Cart System** using **RFID technolo
 ### 🖼️ Circuit Connection (Real-time Setup)
 
 > 📷 Replace with your setup image  
-![Connection Setup](images/connection.jpg)
+![Connection Setup](Circuit_Connections.png)
 
 ---
 
