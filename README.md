@@ -1,7 +1,7 @@
 # Contributers
-Pranav Karwa
-Nabhya Sharma
-Hitesh Sangra
+- Pranav Karwa
+- Nabhya Sharma
+- Hitesh Sangra
 
 # 🛒 Smart Shopping Cart using RFID and Arduino UNO
 
