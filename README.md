@@ -2,9 +2,10 @@
 - Pranav Karwa
 - Nabhya Sharma
 - Hitesh Sangra
-https://drive.google.com/file/d/1izHWyFMZtGgC17j_Y_u34W7ocuLdTTcV/view
+
 
 # 🛒 Patented Smart Shopping Cart using RFID and Arduino UNO
+https://drive.google.com/file/d/1izHWyFMZtGgC17j_Y_u34W7ocuLdTTcV/view
 
 This project demonstrates a **Smart Shopping Cart System** using **RFID technology** and an **Arduino UNO** to automate billing in retail settings. Customers scan RFID-tagged items, monitor their bill in real time, and complete checkout — all without needing a traditional cashier.
 
